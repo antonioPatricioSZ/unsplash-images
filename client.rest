@@ -1,0 +1,4 @@
+
+
+
+GET https://api.unsplash.com/search/photos?page=1&client_id=rtK8-l_-1eeYoMidr5ty9NFq2pSbQLW9DmX4ezbnw1s&query=cat
